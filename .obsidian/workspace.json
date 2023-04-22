@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f8b7d18d23f83767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,10 +159,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "989d6668297a380a",
+  "active": "343324b0a8ee211a",
   "lastOpenFiles": [
-    "Post/init.md",
+    "Professional/磷酸铁锂电池.md",
     "README.md",
+    "Professional",
+    "Post/init.md",
     "Post",
     "Attachments",
     "Course",
