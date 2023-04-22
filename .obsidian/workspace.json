@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f8b7d18d23f83767",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,8 +148,8 @@
   },
   "active": "343324b0a8ee211a",
   "lastOpenFiles": [
-    "Professional/磷酸铁锂电池.md",
     "README.md",
+    "Professional/磷酸铁锂电池.md",
     "Professional",
     "Post/init.md",
     "Post",
