@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "989d6668297a380a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Post/init.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Post/init.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Post/init.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Post/init.md"
               }
             }
           }
@@ -146,8 +159,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7a727f99cb576562",
+  "active": "989d6668297a380a",
   "lastOpenFiles": [
-    "README.md"
+    "README.md",
+    "Post/init.md",
+    "Post",
+    "Attachments",
+    "Course",
+    "Articles"
   ]
 }

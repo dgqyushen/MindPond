@@ -4,6 +4,8 @@
 
 ## 目录结构
 
+
+``` 
 ./documents
 ├── Articles
 │   ├── paper1.pdf
@@ -21,7 +23,7 @@
 └── Attachments
     ├── images
     ├── videos
-`
+```
 
 ## 用法
 
@@ -38,6 +40,12 @@
 在课程目录下，我为每个每节课程创建了一个笔记文件。这些文件包含我对讲义的总结、关键概念和例子。同样，这些笔记文件使用Markdown格式化，并且具有良好的组织结构，以便更容易地审读和查找。
 
 例如：`./documents/courses/course1/lecture1_notes.md`
+
+###  随便写写
+
+在这里我将写点小文章，例如自己的想法什么的
+例如：`./documents/courses/course1/lecture1_notes.md`
+
 
 ## 贡献
 
