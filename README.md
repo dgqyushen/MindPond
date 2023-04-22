@@ -33,18 +33,18 @@
 
 在论文目录下，我为每个论文创建了一个笔记文件。这些文件包含我对论文的总结、关键结果和研究问题的想法。我选择使用Markdown来格式化笔记，因为它可以让我的笔记更加易读，也更适合版本管理。
 
-例如：`./documents/papers/paper1_notes.md`
+例如：`./documents/Articles/paper1_notes.md`
 
 ### 课程笔记
 
 在课程目录下，我为每个每节课程创建了一个笔记文件。这些文件包含我对讲义的总结、关键概念和例子。同样，这些笔记文件使用Markdown格式化，并且具有良好的组织结构，以便更容易地审读和查找。
 
-例如：`./documents/courses/course1/lecture1_notes.md`
+例如：`./documents/Courses/course1/lecture1_notes.md`
 
 ###  随便写写
 
 在这里我将写点小文章，例如自己的想法什么的
-例如：`./documents/courses/course1/lecture1_notes.md`
+例如：`./documents/Post
 
 
 ## 贡献
