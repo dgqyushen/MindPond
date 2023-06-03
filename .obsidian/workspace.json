@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "753bb1ee933b1608",
@@ -142,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +158,9 @@
   },
   "active": "989d6668297a380a",
   "lastOpenFiles": [
-    "README.md",
+    "Post/未命名.md",
     "Post/2023-6-4.md",
+    "README.md",
     "Professional/磷酸铁锂电池.md",
     "Professional",
     "Post/init.md",
