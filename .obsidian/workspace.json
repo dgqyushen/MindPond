@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "753bb1ee933b1608",
@@ -156,18 +155,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "989d6668297a380a",
+  "active": "343324b0a8ee211a",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20230604101432.png",
+    "Post/氟磷酸铁钠/溶胶-凝胶法合成钠离子电池...4F_C及其电化学性能研究_花少帅.pdf",
+    "Post/氟磷酸铁钠/未确认 230975.crdownload",
+    "Post/氟磷酸铁钠/聚阴离子型钠离子电池正极材料的制备及电化学性能研究_凌瑞.pdf",
+    "Post/氟磷酸铁钠/未确认 396088.crdownload",
+    "Post/氟磷酸铁钠/简单固相法合成锂离子电池用..._4F_C复合材料（英文）_胡海.pdf",
+    "Post/氟磷酸铁钠/未确认 398323.crdownload",
+    "Post/氟磷酸铁钠",
+    "Post/氟硫酸铁钠",
     "Post/未命名.md",
     "Post/2023-6-4.md",
+    "Attachments/Pasted image 20230604101432.png",
     "README.md",
     "Professional/磷酸铁锂电池.md",
     "Professional",
     "Post/init.md",
     "Post",
-    "Attachments",
-    "Course",
-    "Articles"
+    "Attachments"
   ]
 }
