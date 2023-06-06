@@ -11,11 +11,9 @@
             "id": "989d6668297a380a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Post/氟磷酸铁钠制备方法.md",
-                "mode": "source",
-                "source": false
+                "file": "Articles/氟磷酸铁钠/简单固相法合成锂离子电池用..._4F_C复合材料（英文）_胡海.pdf"
               }
             }
           }
@@ -77,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 264.5,
+    "collapsed": true
   },
   "right": {
     "id": "753bb1ee933b1608",
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post/氟磷酸铁钠制备方法.md",
+                "file": "Articles/氟磷酸铁钠/简单固相法合成锂离子电池用..._4F_C复合材料（英文）_胡海.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post/氟磷酸铁钠制备方法.md",
+                "file": "Articles/氟磷酸铁钠/简单固相法合成锂离子电池用..._4F_C复合材料（英文）_胡海.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post/氟磷酸铁钠制备方法.md"
+                "file": "Articles/氟磷酸铁钠/简单固相法合成锂离子电池用..._4F_C复合材料（英文）_胡海.pdf"
               }
             }
           }
