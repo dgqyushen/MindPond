@@ -11,11 +11,9 @@
             "id": "989d6668297a380a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Post/氟磷酸铁钠制备方法.md",
-                "mode": "source",
-                "source": false
+                "file": "Articles/硫酸亚铁钠/A Novel Graphene Oxide Wrapped Na2Fe2 SO4 3 C Cathode Composite for Long Life and.pdf"
               }
             }
           }
@@ -77,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 264.5,
+    "collapsed": true
   },
   "right": {
     "id": "753bb1ee933b1608",
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post/氟磷酸铁钠制备方法.md",
+                "file": "Articles/硫酸亚铁钠/A Novel Graphene Oxide Wrapped Na2Fe2 SO4 3 C Cathode Composite for Long Life and.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post/氟磷酸铁钠制备方法.md",
+                "file": "Articles/硫酸亚铁钠/A Novel Graphene Oxide Wrapped Na2Fe2 SO4 3 C Cathode Composite for Long Life and.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post/氟磷酸铁钠制备方法.md"
+                "file": "Articles/硫酸亚铁钠/A Novel Graphene Oxide Wrapped Na2Fe2 SO4 3 C Cathode Composite for Long Life and.pdf"
               }
             }
           }
@@ -155,20 +154,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "343324b0a8ee211a",
+  "active": "989d6668297a380a",
   "lastOpenFiles": [
-    "Articles/氟硫酸铁钠/Facile synthesis of hierarchical Na2Fe(SO4)2@rGOC as high-voltage.pdf",
+    "Post/氟磷酸铁钠制备方法.md",
+    "Articles/硫酸亚铁钠/Facile synthesis of hierarchical Na2Fe(SO4)2@rGOC as high-voltage.pdf",
     "Articles/氟硫酸铁钠/1-s2.0-S2095495620301790-main.pdf",
     "Articles/氟硫酸铁钠/未确认 349874.crdownload",
-    "Articles/氟硫酸铁钠/Ab Initio Study of Stability of Na2Fe2(SO4)3, a High Potential Na-Ion Battery Cathode Material.pdf",
+    "Articles/硫酸亚铁钠/Ab Initio Study of Stability of Na2Fe2(SO4)3, a High Potential Na-Ion Battery Cathode Material.pdf",
     "Articles/氟硫酸铁钠/未确认 451165.crdownload",
-    "Articles/氟硫酸铁钠/A Novel Graphene Oxide Wrapped Na2Fe2 SO4 3 C Cathode Composite for Long Life and.pdf",
-    "Articles/氟硫酸铁钠/An alluaudite compounds Na2Fe2(SO4)3 vs. Na2.5Fe1.75(SO4)3 as earth.pdf",
+    "Articles/硫酸亚铁钠/A Novel Graphene Oxide Wrapped Na2Fe2 SO4 3 C Cathode Composite for Long Life and.pdf",
+    "Articles/硫酸亚铁钠/An alluaudite compounds Na2Fe2(SO4)3 vs. Na2.5Fe1.75(SO4)3 as earth.pdf",
     "Articles/氟硫酸铁钠/1-s2.0-S0167273818304922-main.pdf",
     "Articles/氟硫酸铁钠/未确认 514274.crdownload",
     "Articles/氟硫酸铁钠/Advanced Energy Materials - 2018 - Chen - A Novel Graphene Oxide Wrapped Na2Fe2 SO4 3 C Cathode Composite for Long Life and.pdf",
-    "Articles/氟硫酸铁钠/未确认 267933.crdownload",
-    "Post/氟磷酸铁钠制备方法.md",
     "Articles/2023-6-4.md",
     "Attachments/Pasted image 20230604101432.png",
     "README.md",
