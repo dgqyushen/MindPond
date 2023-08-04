@@ -4,11 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "188c5660459ba03d",
+        "id": "cdb084e7840bf30a",
         "type": "tabs",
         "children": [
           {
-            "id": "989d6668297a380a",
+            "id": "ed55d7ed5a85f8d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Post/硫酸亚铁钠制备方法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "882130230909825f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79dae071022d9453",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -91,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/硫酸亚铁钠/硫酸铁钠类材料的制备与电化学性能研究_颜晨星.pdf",
+                "file": "Post/硫酸亚铁钠制备方法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articles/硫酸亚铁钠/硫酸铁钠类材料的制备与电化学性能研究_颜晨星.pdf",
+                "file": "Post/硫酸亚铁钠制备方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,16 +149,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles/硫酸亚铁钠/硫酸铁钠类材料的制备与电化学性能研究_颜晨星.pdf"
+                "file": "Post/硫酸亚铁钠制备方法.md"
               }
+            }
+          },
+          {
+            "id": "eabf75faacbe70a9",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 414.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -153,11 +179,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "989d6668297a380a",
+  "active": "ed55d7ed5a85f8d9",
   "lastOpenFiles": [
-    "Post/氟磷酸铁钠制备方法.md",
     "Articles/硫酸亚铁钠/硫酸铁钠类材料的制备与电化学性能研究_颜晨星.pdf",
     "Post/硫酸亚铁钠制备方法.md",
+    "Post/氟磷酸铁钠制备方法.md",
     "Articles/硫酸亚铁钠/A Novel Graphene Oxide Wrapped Na2Fe2 SO4 3 C Cathode Composite for Long Life and.pdf",
     "Articles/硫酸亚铁钠/Facile synthesis of hierarchical Na2Fe(SO4)2@rGOC as high-voltage.pdf",
     "Articles/硫酸亚铁钠/An alluaudite compounds Na2Fe2(SO4)3 vs. Na2.5Fe1.75(SO4)3 as earth.pdf",
