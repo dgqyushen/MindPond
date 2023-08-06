@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "cdb084e7840bf30a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ed55d7ed5a85f8d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Post/硫酸亚铁钠制备方法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "871f03c159e9f663",
         "type": "tabs",
         "children": [
