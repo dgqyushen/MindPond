@@ -11,9 +11,11 @@
             "id": "66ca058f1908ff10",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Articles/硫酸亚铁钠/Facile aqueous synthesis of high performance Na2FeM(SO4)3 (M = Fe, Mn, Ni) alluaudites for low cost Na-ion batteries.pdf"
+                "file": "Post/硫酸亚铁钠制备方法.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/硫酸亚铁钠/Facile aqueous synthesis of high performance Na2FeM(SO4)3 (M = Fe, Mn, Ni) alluaudites for low cost Na-ion batteries.pdf",
+                "file": "Post/硫酸亚铁钠制备方法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articles/硫酸亚铁钠/Facile aqueous synthesis of high performance Na2FeM(SO4)3 (M = Fe, Mn, Ni) alluaudites for low cost Na-ion batteries.pdf",
+                "file": "Post/硫酸亚铁钠制备方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles/硫酸亚铁钠/Facile aqueous synthesis of high performance Na2FeM(SO4)3 (M = Fe, Mn, Ni) alluaudites for low cost Na-ion batteries.pdf"
+                "file": "Post/硫酸亚铁钠制备方法.md"
               }
             }
           },
@@ -163,8 +165,8 @@
   },
   "active": "66ca058f1908ff10",
   "lastOpenFiles": [
-    "Post/硫酸亚铁钠制备方法.md",
     "Articles/硫酸亚铁钠/Facile aqueous synthesis of high performance Na2FeM(SO4)3 (M = Fe, Mn, Ni) alluaudites for low cost Na-ion batteries.pdf",
+    "Post/硫酸亚铁钠制备方法.md",
     "Articles/硫酸亚铁钠/Facile synthesis of hierarchical Na2Fe(SO4)2@rGOC as high-voltage.pdf",
     "Articles/硫酸亚铁钠/硫酸铁钠类材料的制备与电化学性能研究_颜晨星.pdf",
     "Post/氟磷酸铁钠制备方法.md",
