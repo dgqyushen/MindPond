@@ -11,11 +11,9 @@
             "id": "66ca058f1908ff10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Post/硫酸亚铁钠制备方法.md",
-                "mode": "source",
-                "source": false
+                "file": "Articles/硫酸亚铁钠/Ab Initio Study of Stability of Na2Fe2(SO4)3, a High Potential Na-Ion Battery Cathode Material.pdf"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post/硫酸亚铁钠制备方法.md",
+                "file": "Articles/硫酸亚铁钠/Ab Initio Study of Stability of Na2Fe2(SO4)3, a High Potential Na-Ion Battery Cathode Material.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post/硫酸亚铁钠制备方法.md",
+                "file": "Articles/硫酸亚铁钠/Ab Initio Study of Stability of Na2Fe2(SO4)3, a High Potential Na-Ion Battery Cathode Material.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post/硫酸亚铁钠制备方法.md"
+                "file": "Articles/硫酸亚铁钠/Ab Initio Study of Stability of Na2Fe2(SO4)3, a High Potential Na-Ion Battery Cathode Material.pdf"
               }
             }
           },
@@ -163,21 +161,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "343324b0a8ee211a",
+  "active": "66ca058f1908ff10",
   "lastOpenFiles": [
+    "Articles/硫酸亚铁钠/A Novel Graphene Oxide Wrapped Na2Fe2 SO4 3 C Cathode Composite for Long Life and.pdf",
+    "Post/硫酸亚铁钠制备方法.md",
     "Articles/硫酸亚铁钠/Aqueous spray‑drying synthesis of alluaudite Na2+2xFe2−x(SO4)3.pdf",
     "Articles/硫酸亚铁钠/Facile aqueous synthesis of high performance Na2FeM(SO4)3 (M = Fe, Mn, Ni) alluaudites for low cost Na-ion batteries.pdf",
-    "Post/硫酸亚铁钠制备方法.md",
     "Articles/硫酸亚铁钠/Facile synthesis of hierarchical Na2Fe(SO4)2@rGOC as high-voltage.pdf",
     "Articles/硫酸亚铁钠/硫酸铁钠类材料的制备与电化学性能研究_颜晨星.pdf",
     "Post/氟磷酸铁钠制备方法.md",
-    "Articles/硫酸亚铁钠/A Novel Graphene Oxide Wrapped Na2Fe2 SO4 3 C Cathode Composite for Long Life and.pdf",
     "Articles/硫酸亚铁钠/An alluaudite compounds Na2Fe2(SO4)3 vs. Na2.5Fe1.75(SO4)3 as earth.pdf",
     "Articles/硫酸亚铁钠/Ab Initio Study of Stability of Na2Fe2(SO4)3, a High Potential Na-Ion Battery Cathode Material.pdf",
     "Articles/氟硫酸铁钠/1-s2.0-S2095495620301790-main.pdf",
     "Articles/氟硫酸铁钠/未确认 349874.crdownload",
     "Articles/氟硫酸铁钠/未确认 451165.crdownload",
-    "Articles/氟硫酸铁钠/1-s2.0-S0167273818304922-main.pdf",
     "Articles/2023-6-4.md",
     "Attachments/Pasted image 20230604101432.png",
     "README.md",
