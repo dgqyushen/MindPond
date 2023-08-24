@@ -4,19 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d98f9e9508362e97",
+        "id": "606fe41d4e059994",
         "type": "tabs",
         "children": [
           {
-            "id": "78605a3202565edf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "476022bf00034572",
+            "id": "e75b1a9a54f555d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,10 +164,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "476022bf00034572",
+  "active": "e75b1a9a54f555d2",
   "lastOpenFiles": [
-    "Articles/硫酸亚铁钠/Aqueous spray‑drying synthesis of alluaudite Na2+2xFe2−x(SO4)3.pdf",
     "Post/对钠离子电池的认识.md",
+    "Attachments/Pasted image 20230820212055.png",
+    "Articles/硫酸亚铁钠/Aqueous spray‑drying synthesis of alluaudite Na2+2xFe2−x(SO4)3.pdf",
     "Articles/硫酸亚铁钠/An alluaudite compounds Na2Fe2(SO4)3 vs. Na2.5Fe1.75(SO4)3 as earth.pdf",
     "Articles/硫酸亚铁钠/Ab Initio Study of Stability of Na2Fe2(SO4)3, a High Potential Na-Ion Battery Cathode Material.pdf",
     "Articles/硫酸亚铁钠/A Novel Graphene Oxide Wrapped Na2Fe2 SO4 3 C Cathode Composite for Long Life and.pdf",
