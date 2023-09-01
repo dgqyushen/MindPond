@@ -11,15 +11,24 @@
             "id": "e75b1a9a54f555d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Post/硫酸亚铁钠制备方法.md",
-                "mode": "source",
-                "source": false
+                "file": "Articles/硫酸亚铁钠/A Novel Graphene Oxide Wrapped Na2Fe2 SO4 3 C Cathode Composite for Long Life and.pdf"
+              }
+            }
+          },
+          {
+            "id": "69411a7139a1271a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 265.5
   },
   "right": {
     "id": "753bb1ee933b1608",
@@ -93,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post/硫酸亚铁钠制备方法.md",
+                "file": "Articles/硫酸亚铁钠/A Novel Graphene Oxide Wrapped Na2Fe2 SO4 3 C Cathode Composite for Long Life and.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post/硫酸亚铁钠制备方法.md",
+                "file": "Articles/硫酸亚铁钠/A Novel Graphene Oxide Wrapped Na2Fe2 SO4 3 C Cathode Composite for Long Life and.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post/硫酸亚铁钠制备方法.md"
+                "file": "Articles/硫酸亚铁钠/A Novel Graphene Oxide Wrapped Na2Fe2 SO4 3 C Cathode Composite for Long Life and.pdf"
               }
             }
           },
@@ -163,10 +172,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e75b1a9a54f555d2",
+  "active": "69411a7139a1271a",
   "lastOpenFiles": [
-    "Post/氟磷酸铁钠制备方法.md",
     "Post/硫酸亚铁钠制备方法.md",
+    "Post/氟磷酸铁钠制备方法.md",
     "Post/对钠离子电池的认识.md",
     "Attachments/Pasted image 20230820212055.png",
     "Articles/硫酸亚铁钠/Aqueous spray‑drying synthesis of alluaudite Na2+2xFe2−x(SO4)3.pdf",
