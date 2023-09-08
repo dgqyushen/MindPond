@@ -21,9 +21,11 @@
             "id": "69411a7139a1271a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.5"
+                "file": "Post/硫酸亚铁钠制备方法.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -102,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/硫酸亚铁钠/A Novel Graphene Oxide Wrapped Na2Fe2 SO4 3 C Cathode Composite for Long Life and.pdf",
+                "file": "Post/硫酸亚铁钠制备方法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articles/硫酸亚铁钠/A Novel Graphene Oxide Wrapped Na2Fe2 SO4 3 C Cathode Composite for Long Life and.pdf",
+                "file": "Post/硫酸亚铁钠制备方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles/硫酸亚铁钠/A Novel Graphene Oxide Wrapped Na2Fe2 SO4 3 C Cathode Composite for Long Life and.pdf"
+                "file": "Post/硫酸亚铁钠制备方法.md"
               }
             }
           },
