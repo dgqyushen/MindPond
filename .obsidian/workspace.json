@@ -28,9 +28,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "56ef02ed4bec152b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.11"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,6 +165,16 @@
               "type": "copilot-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "2ad7c5f9b8d522c7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -174,7 +194,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "343324b0a8ee211a",
+  "active": "56ef02ed4bec152b",
   "lastOpenFiles": [
     "Articles/硫酸亚铁钠/Na2.5Fe1.75(SO4)3KetjenrGO An advanced cathode composite for sodium ion batteries.pdf",
     "Articles/硫酸亚铁钠/1-s2.0-S037877531731323X-main.pdf",
