@@ -28,9 +28,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "26dd9e18b4a45f35",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,7 +194,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "69411a7139a1271a",
+  "active": "26dd9e18b4a45f35",
   "lastOpenFiles": [
     "Articles/硫酸亚铁钠/Advanced Energy Materials - 2021 - Gao.pdf",
     "Articles/硫酸亚铁钠/未确认 864857.crdownload",
