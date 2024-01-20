@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0b9a19d277a4e863",
+        "id": "10b6fd8d587dbc4b",
         "type": "tabs",
         "children": [
           {
-            "id": "e9c2d6aab50b349f",
+            "id": "c01a4d530a2afd67",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -173,7 +171,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e9c2d6aab50b349f",
+  "active": "c01a4d530a2afd67",
   "lastOpenFiles": [
     "Articles/硫酸亚铁钠/Advanced Energy Materials - 2021 - Gao.pdf",
     "Articles/硫酸亚铁钠/未确认 864857.crdownload",
